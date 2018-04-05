@@ -3,7 +3,6 @@ import speech_recognition as sr
 import smtplib
 import xlrd
 import datetime
-import ctypes
 sender = input()
 passward = input()
 receiver = input()
